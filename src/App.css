@@ -1,0 +1,61 @@
+
+.App {
+    text-align: center;
+}
+
+.App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+}
+
+.App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+}
+
+.App-title {
+    font-size: 1.5em;
+}
+
+.App-intro {
+    font-size: large;
+}
+
+#components-layout-demo-responsive .logo {
+    height: 32px;
+    background: #333;
+    border-radius: 6px;
+    margin: 16px;
+}
+
+.user-icon {
+    text-align: center;
+    height: 64px;
+    margin: 0 auto;
+
+}
+
+.m {
+    border: 1px solid red;
+}
+
+.ant-card-body {
+    padding: 12px;
+}
+.ant-tag{
+    margin-top: 4px;
+}
+.ant-layout-sider-zero-width-trigger{
+    top:22px;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
